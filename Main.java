@@ -60,7 +60,7 @@ public class Main {
 		FileInfo File9 = new FileInfo(inString9);
 		FileInfo File10 = new FileInfo(inString10);
 		
-		// contains
+		// winners contains
 		// the length of the largest strand in index [0]
 		// the offset of largest strand in index [1]
 		// the offset of largest strand in the other file in a[2]
